@@ -1,4 +1,4 @@
-os
+jupyter
 itertools 
 numpy 
 pandas
