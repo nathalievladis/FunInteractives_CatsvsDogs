@@ -4,5 +4,5 @@ pandas
 scikit-image
 matplotlib
 pathlib
-pickle
+pickle==4.0
 
