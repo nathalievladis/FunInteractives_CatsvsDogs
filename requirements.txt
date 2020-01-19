@@ -2,6 +2,7 @@ jupyter
 numpy 
 pandas
 scikit-image
+scikit-learn
 matplotlib
 pathlib
 
