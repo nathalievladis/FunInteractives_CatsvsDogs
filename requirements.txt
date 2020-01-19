@@ -1,8 +1,10 @@
 jupyter
-itertools 
 numpy 
 pandas
 skimage
 matplotlib
 pathlib
 pickle
+ipywidgets
+ipython
+scipy
