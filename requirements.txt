@@ -5,7 +5,3 @@ scikit-image
 scikit-learn
 matplotlib
 pathlib
-ipywidgets==7.5.0
-io
-PIL
-
